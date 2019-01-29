@@ -1,4 +1,4 @@
-import { sort } from '../utilities';
+import { sort } from '../../utilities';
 
 export default sort(
     [
