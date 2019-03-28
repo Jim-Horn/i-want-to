@@ -1,5 +1,5 @@
 import React from "react";
-import { sortArticles } from "../../../utilities";
+import { sortArticles } from "../../utilities";
 export default sortArticles([
   {
     section: "filesystem",
