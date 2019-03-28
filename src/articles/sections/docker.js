@@ -1,6 +1,6 @@
-import CodeCopy from "../../../CodeCopy";
 import React from "react";
-import { sortArticles } from "../../../utilities";
+import CodeCopy from "../../components/CodeCopy";
+import { sortArticles } from "../../utilities";
 
 export default sortArticles([
   {
