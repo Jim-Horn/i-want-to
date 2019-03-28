@@ -4,7 +4,7 @@
     "description": "FAQs component for devs. Displays examples of common tasks.",
     "keywords": [],
     "main": "src/index.js",
-    "now-build": "react-scripts build",
+    "now-build": "build",
     "dependencies": {
         "react": "16.5.2",
         "react-bootstrap": "1.0.0-beta.5",
@@ -19,5 +19,10 @@
         "test": "react-scripts test --env=jsdom",
         "eject": "react-scripts eject"
     },
-    "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+    "browserslist": [
+        ">0.2%",
+        "not dead",
+        "not ie <= 11",
+        "not op_mini all"
+    ]
 }
