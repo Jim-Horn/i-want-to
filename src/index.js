@@ -9,7 +9,7 @@ function App() {
     return (
         <div className="App">
             <h1>I want to...</h1>
-            <p>Choose a section to view articles</p>
+            <p>Choose a section to view tips</p>
             <FAQs data={data} />
         </div>
     );

@@ -1,4 +1,4 @@
-import { sort } from '../utilities';
+import { sort } from '../../utilities';
 
 export default sort(
     [
@@ -9,6 +9,7 @@ export default sort(
         { section: 'css', friendlyName: 'CSS' },
         { section: 'cmd', friendlyName: 'cmd' },
         { section: 'filesystem', friendlyName: 'File system' },
+        { section: 'node', friendlyName: 'Node' },
     ],
     'section'
 );
